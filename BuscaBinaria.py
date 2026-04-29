@@ -68,5 +68,5 @@ vetor_teste = [1000,
 10000000,
 ]
 
-
+# O valor alvo é 9000
 print( busca_binaria(vetor_teste,9000,0,len(vetor_teste)-1))
