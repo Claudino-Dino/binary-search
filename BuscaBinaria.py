@@ -15,7 +15,7 @@ def busca_binaria(vetor, alvo, min, max):
     print("Elemento não existe no vetor!")
     return -1 
 
-# Encolha esse vetor clicando na seta para baixo (⌵)
+# Encolha esse vetor clicando na seta para baixo à esquerda (⌵)
 vetor_teste = [1000,
 2000,
 3000,
